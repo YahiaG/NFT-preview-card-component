@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/YahiaG/NFT-preview-card-component)
+- Live Site URL: [Add live site URL here](https://yahiag.github.io/NFT-preview-card-component/)
 
 ## My process
 
